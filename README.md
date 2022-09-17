@@ -8,7 +8,7 @@
 - HTML
 - CSS
 - JS
--React
+- React
 
 ---
 
