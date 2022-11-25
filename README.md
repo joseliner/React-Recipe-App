@@ -13,4 +13,6 @@
 ---
 
 ### How to run app:
+- npm install in terminal
+- npm run start 
 - Open browser to `http://localhost:3000/`
